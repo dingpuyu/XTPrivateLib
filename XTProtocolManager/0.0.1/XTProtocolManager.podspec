@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 			XTProtocolManager是一个iOS项目组件化管理工具之一，主要用来管理模块跳转的。
                    DESC
 
-  s.homepage     = "https://github.com/dingpuyu/XTProtocolManager.git"
+  s.homepage     = "https://github.com/dingpuyu/XTProtocolManager"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
